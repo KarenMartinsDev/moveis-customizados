@@ -2,9 +2,7 @@
 body {
     font-family: 'Open Sans', sans-serif;  
     text-align: center;  
-}
-
-
+} 
 #hero {
     width: 592px;
     margin: 0 auto 72px;
@@ -22,16 +20,11 @@ h1 {
     margin-bottom: 32px;
 }
 
-
-h1 span{
+h1 span {
     font-weight: bold;
 }
 
-
-span, a {
-    color: #FF9900;
-}
-
+span, a { color: #FF9900; }
 
 p, #footer {
     color: #7D7987;
